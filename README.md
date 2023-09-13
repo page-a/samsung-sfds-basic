@@ -11,12 +11,12 @@
 ### 2. 폴더 정리
 
 1. 다운로드한 ZIP 파일의 압축을 풉니다. (파일의 비밀번호는 사전 통지와 수업 전에 알려드립니다.)
-2. samsung-sfds-basic 폴더 안의 Dataset, Notes 2개 파일의 압축을 풉니다. 
+2. samsung-sfds-basic 폴더 안의 Dataset, Notes, Textbooks 3개 파일의 압축을 풉니다. 
 3. samsung-sfds-basic 폴더를 바탕 화면으로 이동시켜 줍니다.
 
 
 <p align='center'>
-  <img src="https://user-images.githubusercontent.com/43348218/206940247-1c61de56-8fc8-45f5-b799-6cef3ddfedb9.png">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/43348218/267607774-37453441-0eb8-4789-9f19-99ee5345fc2c.png">
 </p>
 
 
