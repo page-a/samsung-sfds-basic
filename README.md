@@ -30,6 +30,8 @@
 
 1. 특정 파일을 클릭합니다.
 2. `Download` 버튼을 클릭합니다.
+![image](https://github.com/page-a/samsung-sfds-basic/assets/43348218/b2a1524f-e6e4-4f56-863d-ddf1d89b4f68)
+
 
 ---
 ### 수업이 끝난 후 다시 파일 받기
