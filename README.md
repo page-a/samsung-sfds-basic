@@ -29,6 +29,10 @@
 ### 특정 파일만 다운로드하는 방법
 
 1. 특정 파일을 클릭합니다.
+
+![image](https://github.com/page-a/samsung-sfds-basic/assets/43348218/96710dd1-f6f0-445f-a965-19849db4988b)
+
+
 2. `Download` 버튼을 클릭합니다.
    
 ![image](https://github.com/page-a/samsung-sfds-basic/assets/43348218/b2a1524f-e6e4-4f56-863d-ddf1d89b4f68)
