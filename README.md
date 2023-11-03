@@ -3,6 +3,7 @@
 
 ### 1. 수업 자료 다운로드
 
+
 1. `<> Code` 버튼을 클릭합니다.
 2. `Download ZIP`을 클릭해 수업 자료 전체를 다운로드합니다.
 
@@ -10,19 +11,19 @@
 
 ### 2. 폴더 정리
 
-1. 다운로드한 ZIP 파일의 압축을 풉니다. (파일의 비밀번호는 사전 통지와 수업 전에 알려드립니다.)
-2. 폴더명을 samsung-sfds-basic 으로 변경합니다.
-3. samsung-sfds-basic 폴더 안의 Dataset, Notes, Textbooks 3개 파일의 압축을 풉니다. 
-4. samsung-sfds-basic 폴더를 바탕 화면으로 이동시켜 줍니다.
+1. 다운로드한 zip 파일(`samsung-sfds-basic-main.zip`)의 압축을 풉니다. 
+2. 압축을 푼 폴더명을 samsung-sfds-basic로 바꾸고 바탕 화면으로 이동시켜 줍니다.
+3. zip 파일(`Dataset`, `Notes`)을 압축을 풉니다.(파일의 비밀번호는 사전 통지 or 질문 주세요.)
+    - 압축을 푸실 때 **각 폴더에 압축풀기**로 풀어주세요. 
+4. 제대로 압축을 푸셨으면 samsung-sfds-basic 폴더의 하위 폴더는 `Dataset`, `Notes` 입니다. 
+    <p align='center'>
+    <img src="https://github.com/page-a/samsung-sfds-basic/assets/43348218/812e15d6-524c-4db3-a279-ccda927e575e" height="300" width="500>
+  </p>
+   
+5. `.gitignore`, `README.md`는 강사용 파일이라 삭제하셔도 무관합니다.
+6. `requirements.txt` 파일은 패키지 설치 때 이용할 예정입니다.
 
 
-<p align='center'>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/43348218/267607774-37453441-0eb8-4789-9f19-99ee5345fc2c.png">
-</p>
-
-
-
-  
 ---
 ## GitHub 사용 방법
 
