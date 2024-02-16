@@ -3,21 +3,21 @@
 
 ### 1. 수업 자료 다운로드
 
-
 1. `<> Code` 버튼을 클릭합니다.
 2. `Download ZIP`을 클릭해 수업 자료 전체를 다운로드합니다.
 
 ![image](https://user-images.githubusercontent.com/43348218/209629162-51260723-237d-4868-a196-5f96e96a33b7.jpg)
 
-### 2. 폴더 정리
+
+
+### 2. 과정 시작 전 폴더 정리
 
 1. 다운로드한 zip 파일(`samsung-sfds-basic-main.zip`)의 압축을 풉니다. 
-2. 압축을 푼 폴더명을 samsung-sfds-basic로 바꾸고 바탕 화면으로 이동시켜 줍니다.
-3. zip 파일(`Dataset`, `Notes`)을 압축을 풉니다.(파일의 비밀번호는 사전 통지 or 질문 주세요.)
-    - 압축을 푸실 때 **각 폴더에 압축풀기**로 풀어주세요. 
-4. 제대로 압축을 푸셨으면 samsung-sfds-basic 폴더의 하위 폴더는 `Dataset`, `Notes` 입니다. 
+2. 압축을 푼 폴더명을 `samsung-sfds-basic`로 바꾸고 바탕 화면으로 이동시켜 줍니다.
+3. zip 파일을 압축을 풉니다.(파일의 비밀번호는 사전 통지 or 질문 주세요.)
+4. 제대로 압축을 푸셨으면 samsung-sfds-basic 폴더의 하위 폴더는 `Datasets`, `Part1_alphabet` 입니다. 
     <p align='center'>
-    <img src="https://github.com/page-a/samsung-sfds-basic/assets/43348218/812e15d6-524c-4db3-a279-ccda927e575e" height="300" width="500>
+    <img src="https://github.com/page-a/samsung-sfds-basic/assets/43348218/3465d0b9-8bbc-4017-bba4-9e80d27071a5" height="300" width="500>
   </p>
    
 5. `.gitignore`, `README.md`는 강사용 파일이라 삭제하셔도 무관합니다.
@@ -33,6 +33,7 @@
 
 ![image](https://github.com/page-a/samsung-sfds-basic/assets/43348218/96710dd1-f6f0-445f-a965-19849db4988b)
 
+  
 
 2. `Download` 버튼을 클릭합니다.
    
