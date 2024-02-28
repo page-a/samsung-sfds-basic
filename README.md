@@ -19,6 +19,7 @@
     <p align='center'>
     <img src="https://github.com/page-a/samsung-sfds-basic/assets/43348218/3465d0b9-8bbc-4017-bba4-9e80d27071a5" height="300" width="500>
   </p>   
+  
 5. `.gitignore`, `README.md`는 강사용 파일이라 삭제하셔도 무관합니다.
 6. `requirements.txt` 파일은 패키지 설치 때 이용할 예정입니다.
 
