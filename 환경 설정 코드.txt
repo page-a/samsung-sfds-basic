@@ -1,0 +1,18 @@
+#가상환경 설치
+conda create -n basic python==3.7.4 -y
+
+	#내부망 이용시
+conda create -n basic -c conda-forge python==3.7.4 -y
+
+#가상환경 접속
+conda activate basic
+
+#경로 이동
+cd Desktop 
+cd samsung-sfds-basic 
+
+#패키지 설치
+pip install –r requirements_py_250304.txt
+
+#가상환경 삭제 코드
+conda remove -n basic --all
