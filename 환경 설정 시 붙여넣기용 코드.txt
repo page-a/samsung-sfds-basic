@@ -5,6 +5,11 @@ Win, Mac 사용자를 위한 코드입니다.
 #가상환경 설치
 conda create -n basic python==3.7.4 -y
 
+	# 약관 
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/msys2
+
 #가상환경 접속
 conda activate basic
 
